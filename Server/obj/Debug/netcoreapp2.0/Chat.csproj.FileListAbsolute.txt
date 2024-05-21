@@ -1,0 +1,48 @@
+D:\OUTSOURCE\C#\Socket\Websocket-ChatRoom-master\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\OUTSOURCE\C#\Socket\Websocket-ChatRoom-master\bin\Debug\netcoreapp2.0\appsettings.json
+D:\OUTSOURCE\C#\Socket\Websocket-ChatRoom-master\bin\Debug\netcoreapp2.0\bundleconfig.json
+D:\OUTSOURCE\C#\Socket\Websocket-ChatRoom-master\bin\Debug\netcoreapp2.0\Chat.deps.json
+D:\OUTSOURCE\C#\Socket\Websocket-ChatRoom-master\bin\Debug\netcoreapp2.0\Chat.runtimeconfig.json
+D:\OUTSOURCE\C#\Socket\Websocket-ChatRoom-master\bin\Debug\netcoreapp2.0\Chat.runtimeconfig.dev.json
+D:\OUTSOURCE\C#\Socket\Websocket-ChatRoom-master\bin\Debug\netcoreapp2.0\Chat.dll
+D:\OUTSOURCE\C#\Socket\Websocket-ChatRoom-master\bin\Debug\netcoreapp2.0\Chat.pdb
+D:\OUTSOURCE\C#\Socket\Websocket-ChatRoom-master\obj\Debug\netcoreapp2.0\Chat.csproj.AssemblyReference.cache
+D:\OUTSOURCE\C#\Socket\Websocket-ChatRoom-master\obj\Debug\netcoreapp2.0\Chat.GeneratedMSBuildEditorConfig.editorconfig
+D:\OUTSOURCE\C#\Socket\Websocket-ChatRoom-master\obj\Debug\netcoreapp2.0\Chat.AssemblyInfoInputs.cache
+D:\OUTSOURCE\C#\Socket\Websocket-ChatRoom-master\obj\Debug\netcoreapp2.0\Chat.AssemblyInfo.cs
+D:\OUTSOURCE\C#\Socket\Websocket-ChatRoom-master\obj\Debug\netcoreapp2.0\Chat.csproj.CoreCompileInputs.cache
+D:\OUTSOURCE\C#\Socket\Websocket-ChatRoom-master\obj\Debug\netcoreapp2.0\Chat.dll
+D:\OUTSOURCE\C#\Socket\Websocket-ChatRoom-master\obj\Debug\netcoreapp2.0\Chat.pdb
+D:\OUTSOURCE\C#\Socket\Websocket-ChatRoom-master\obj\Debug\netcoreapp2.0\Chat.genruntimeconfig.cache
+F:\OutSource\C# OOP\SOCKET\Websocket-ChatRoom-master\bin\Debug\netcoreapp2.0\appsettings.Development.json
+F:\OutSource\C# OOP\SOCKET\Websocket-ChatRoom-master\bin\Debug\netcoreapp2.0\appsettings.json
+F:\OutSource\C# OOP\SOCKET\Websocket-ChatRoom-master\bin\Debug\netcoreapp2.0\bundleconfig.json
+F:\OutSource\C# OOP\SOCKET\Websocket-ChatRoom-master\bin\Debug\netcoreapp2.0\Chat.deps.json
+F:\OutSource\C# OOP\SOCKET\Websocket-ChatRoom-master\bin\Debug\netcoreapp2.0\Chat.runtimeconfig.json
+F:\OutSource\C# OOP\SOCKET\Websocket-ChatRoom-master\bin\Debug\netcoreapp2.0\Chat.runtimeconfig.dev.json
+F:\OutSource\C# OOP\SOCKET\Websocket-ChatRoom-master\bin\Debug\netcoreapp2.0\Chat.dll
+F:\OutSource\C# OOP\SOCKET\Websocket-ChatRoom-master\bin\Debug\netcoreapp2.0\Chat.pdb
+F:\OutSource\C# OOP\SOCKET\Websocket-ChatRoom-master\obj\Debug\netcoreapp2.0\Chat.csproj.AssemblyReference.cache
+F:\OutSource\C# OOP\SOCKET\Websocket-ChatRoom-master\obj\Debug\netcoreapp2.0\Chat.GeneratedMSBuildEditorConfig.editorconfig
+F:\OutSource\C# OOP\SOCKET\Websocket-ChatRoom-master\obj\Debug\netcoreapp2.0\Chat.AssemblyInfoInputs.cache
+F:\OutSource\C# OOP\SOCKET\Websocket-ChatRoom-master\obj\Debug\netcoreapp2.0\Chat.AssemblyInfo.cs
+F:\OutSource\C# OOP\SOCKET\Websocket-ChatRoom-master\obj\Debug\netcoreapp2.0\Chat.csproj.CoreCompileInputs.cache
+F:\OutSource\C# OOP\SOCKET\Websocket-ChatRoom-master\obj\Debug\netcoreapp2.0\Chat.dll
+F:\OutSource\C# OOP\SOCKET\Websocket-ChatRoom-master\obj\Debug\netcoreapp2.0\Chat.pdb
+F:\OutSource\C# OOP\SOCKET\Websocket-ChatRoom-master\obj\Debug\netcoreapp2.0\Chat.genruntimeconfig.cache
+F:\OutSource\C# OOP\SOCKET\Server\bin\Debug\netcoreapp2.0\appsettings.Development.json
+F:\OutSource\C# OOP\SOCKET\Server\bin\Debug\netcoreapp2.0\appsettings.json
+F:\OutSource\C# OOP\SOCKET\Server\bin\Debug\netcoreapp2.0\bundleconfig.json
+F:\OutSource\C# OOP\SOCKET\Server\bin\Debug\netcoreapp2.0\Chat.deps.json
+F:\OutSource\C# OOP\SOCKET\Server\bin\Debug\netcoreapp2.0\Chat.runtimeconfig.json
+F:\OutSource\C# OOP\SOCKET\Server\bin\Debug\netcoreapp2.0\Chat.runtimeconfig.dev.json
+F:\OutSource\C# OOP\SOCKET\Server\bin\Debug\netcoreapp2.0\Chat.dll
+F:\OutSource\C# OOP\SOCKET\Server\bin\Debug\netcoreapp2.0\Chat.pdb
+F:\OutSource\C# OOP\SOCKET\Server\obj\Debug\netcoreapp2.0\Chat.csproj.AssemblyReference.cache
+F:\OutSource\C# OOP\SOCKET\Server\obj\Debug\netcoreapp2.0\Chat.GeneratedMSBuildEditorConfig.editorconfig
+F:\OutSource\C# OOP\SOCKET\Server\obj\Debug\netcoreapp2.0\Chat.AssemblyInfoInputs.cache
+F:\OutSource\C# OOP\SOCKET\Server\obj\Debug\netcoreapp2.0\Chat.AssemblyInfo.cs
+F:\OutSource\C# OOP\SOCKET\Server\obj\Debug\netcoreapp2.0\Chat.csproj.CoreCompileInputs.cache
+F:\OutSource\C# OOP\SOCKET\Server\obj\Debug\netcoreapp2.0\Chat.dll
+F:\OutSource\C# OOP\SOCKET\Server\obj\Debug\netcoreapp2.0\Chat.pdb
+F:\OutSource\C# OOP\SOCKET\Server\obj\Debug\netcoreapp2.0\Chat.genruntimeconfig.cache
